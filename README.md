@@ -13,7 +13,7 @@ format.
 **Python 3.x:** This script is written in Python 3 and requires Python 3.x to run.
 
 ## Required Modules
-The script uses the standard libraries argparse, subprocess, threading, and queue. No external modules are needed.
+The script uses the standard libraries ```argparse```, ```subprocess```, ```threading```, and ```queue```. No external modules are needed.
 
 # Installation
 **Clone the Repository:**
